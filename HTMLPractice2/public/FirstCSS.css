@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+body {
+background-color: yellow;
+}
+
+
+
+#para1 {
+color: blue;
+}
+
+
+
+h1 {
+color: red;
+margin-left: 40px;
+}
